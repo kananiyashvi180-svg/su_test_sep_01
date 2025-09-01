@@ -12,7 +12,7 @@ int main() {
     
     while (num != 0) {
         remainder = num % 10;
-        num2 = num2* 10 ;
+        num2 = num2 * 10 ;
         num = num / 10;
     }
 
